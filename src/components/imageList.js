@@ -1,5 +1,6 @@
 import React from 'react';
-const ImageList=()=>{
-	return <div>hi</div>
+const ImageList=(props)=>{
+	console.log(props.images);
+	return <div> </div>
 }
-export default React;
+export default ImageList;
