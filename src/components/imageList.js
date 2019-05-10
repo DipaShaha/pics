@@ -1,5 +1,5 @@
 import React from 'react';
-const imageList=()=>{
+const ImageList=()=>{
 	return <div>hi</div>
 }
 export default React;
